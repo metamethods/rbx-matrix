@@ -20,7 +20,10 @@ jobs:
                     unzip aftman.zip
                     chmod +x ./aftman
                     ./aftman self-install
-                    source ~/.bashrc
+
+            -   name: Install Packages
+                run: |
+                    # source ~/.bashrc
                     yes | aftman install
 
             -   name: Build
