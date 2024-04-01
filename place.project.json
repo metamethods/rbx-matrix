@@ -1,0 +1,11 @@
+{
+    "name": "Matrix",
+    "tree": {
+      "$className": "DataModel",
+      "ReplicatedStorage": {
+        "Matrix": {
+            "$path": "default.project.json"
+        }
+      }
+    }
+  }

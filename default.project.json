@@ -1,0 +1,9 @@
+{
+  "name": "Matrix",
+  "tree": {
+    "$path": "./src",
+    "Packages": {
+      "$path": "./Packages"
+    }
+  }
+}
